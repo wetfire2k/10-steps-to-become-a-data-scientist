@@ -241,7 +241,6 @@ To use the **correct data**, please **download** the data set from  the **Kaggle
 
 **Mj Bhamnai**
 
-mohamadjavad.bahmani@gmail.com
 # Citation
 If you use my code in your research, please cite this project.
 ```
